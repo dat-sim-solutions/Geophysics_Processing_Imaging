@@ -7,3 +7,5 @@ It is a magnetic technique for magnetic susceptibility.
 Forward simulation (using the general Green's function for the vertical magnetic field), comparison against syntetic data,  
 optimizing of the magnetic susceptibility matrix.  
 
+Petrophysics correlation
+Both techniques are combined to give a higher resolution.
