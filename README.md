@@ -11,3 +11,6 @@ optimizing of the magnetic susceptibility matrix.
 
 Petrophysics correlation
 Both techniques are combined to give a higher resolution.
+
+SQL with SQLAlchemy (python)
+1 Table; 2 Tables with JOIN, HAVING, WHERE, GROUP BY, AND ORDER BY
